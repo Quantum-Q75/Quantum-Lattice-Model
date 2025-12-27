@@ -5,6 +5,32 @@ In QLM, spacetime is modeled as a four-dimensional lattice where each lattice ti
 
 From this single primitive rule, the full system of Planck units, gravitational coupling, and related physical structure follows in closed algebraic form.
 
+---
+
+## Navigation
+
+- **Foundations**  
+  Canonical QLM foundations paper  
+  → `/foundations/`
+
+- **Extensions**  
+  Derived results and applications  
+  → `/extensions/`
+
+- **Notation Registry**  
+  Canonical symbol definitions and usage rules  
+  → `/notation/`
+
+- **Tools (Titus)**  
+  Companion system for exploring and verifying QLM derivations  
+  → `/tools/`
+
+- **Archive**  
+  External archival records (OSF)  
+  → `/archive/`
+
+---
+
 ## Core Principles
 
 QLM is built on the following foundational assumptions:
@@ -22,6 +48,8 @@ QLM is built on the following foundational assumptions:
   All Planck quantities are derived using reduced action per radian, not dimensional square-root combinations of {G, ħ, c}.
 
 These rules define a minimal and internally consistent foundation from which mechanical, electromagnetic, geometric, and thermodynamic quantities arise.
+
+---
 
 ## Canonical Foundations
 
@@ -43,6 +71,8 @@ A notation-aligned archival version of the foundations paper was uploaded on Dec
 The update modifies notation only; no equations, derivations, assumptions, or results were changed.  
 The December 4, 2025 paper remains the canonical foundations reference.
 
+---
+
 ## Extensions and Derived Results
 
 QLM supports nontrivial extensions without modification of its foundational rules.
@@ -57,27 +87,36 @@ This extension demonstrates that QLM implies:
 
 All results are derived strictly from the canonical foundations, serving as a validation of the framework’s internal consistency.
 
+---
+
 ## Notation and Symbol Registry
 
 QLM treats notation as part of the formal structure of the theory.
 
-A dedicated notation registry is maintained to:
-- prevent symbol collisions,
-- preserve consistency across papers and extensions,
-- ensure long-term clarity as the framework expands.
+A dedicated notation registry governs:
+- canonical symbol definitions,
+- dimensional meanings,
+- and usage rules across foundational and extended results.
 
-Readers and contributors should consult the notation registry before introducing new symbols.
+Notation updates documented in this repository are restricted to symbolic clarity and do not modify physical content.  
+Until the consolidated registry document is present, the canonical papers remain the authoritative source of notation.
 
-## Tools
+---
 
-This repository includes **Titus**, an interactive system designed to explore, verify, and apply Quantum Lattice Model (QLM) derivations and constraints.
+## Tools — Titus
 
-Titus is a **companion tool**:
-- it does not define QLM,
-- it does not modify the framework,
-- it operates strictly from the canonical foundations and extensions.
+This repository includes **Titus**, a companion system designed to explore, explain, and verify the Quantum Lattice Model using its canonical foundations and extensions.
 
-QLM remains the sole source of physical definitions and assumptions.
+Titus serves as an interactive aid for:
+- tracing derivations,
+- checking dimensional consistency,
+- mapping QLM expressions to standard physics,
+- and exploring consequences of the lattice rules.
+
+Titus does **not** define QLM, modify its assumptions, or supersede the canonical papers.
+
+Access Titus here:  
+https://chatgpt.com/g/g-68c366a7e4e881918f90c2975096d842-titus
 
 ## Repository Structure
 
@@ -101,12 +140,16 @@ QLM is an actively developed theoretical framework.
 
 This repository serves as the **authoritative reference** for the Quantum Lattice Model.
 
+---
+
 ## License and Use
 
 This work is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
 
 You are free to share and adapt the material for any purpose, provided appropriate credit is given.  
 See the LICENSE file for the full legal text.
+
+---
 
 ## Attribution
 
