@@ -19,15 +19,15 @@ From this single primitive rule, the full system of Planck units, gravitational 
 
 - **Notation Registry**  
   Canonical symbol definitions and usage rules  
-  → [Notation](notation/)
+  → [Notation](Notation/)
 
 - **Tools (Titus)**  
   Companion system for exploring and verifying QLM derivations  
-  → [Tools](tools/)
+  → [Tools](Tools/)
 
 - **Archive**  
   External archival records  
-  → [Archive](archive/)
+  → [Archive](Archive/)
 
 ---
 
