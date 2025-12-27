@@ -103,8 +103,10 @@ This repository serves as the **authoritative reference** for the Quantum Lattic
 
 ## License and Use
 
-All materials in this repository are provided for research, study, and verification purposes.  
-See the LICENSE file for details.
+This work is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+
+You are free to share and adapt the material for any purpose, provided appropriate credit is given.  
+See the LICENSE file for the full legal text.
 
 ## Attribution
 
