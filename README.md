@@ -11,11 +11,11 @@ From this single primitive rule, the full system of Planck units, gravitational 
 
 - **Foundations**  
   Canonical QLM foundations paper  
-  → [Foundations](foundations/)
+  → [Foundations](Foundations/)
 
 - **Extensions**  
   Derived results and applications  
-  → [Extensions](extensions/)
+  → [Extensions](Extensions/)
 
 - **Notation Registry**  
   Canonical symbol definitions and usage rules  
