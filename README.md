@@ -11,23 +11,23 @@ From this single primitive rule, the full system of Planck units, gravitational 
 
 - **Foundations**  
   Canonical QLM foundations paper  
-  → `foundations/`
+  → [Foundations](foundations/)
 
 - **Extensions**  
   Derived results and applications  
-  → `extensions/`
+  → [Extensions](extensions/)
 
 - **Notation Registry**  
   Canonical symbol definitions and usage rules  
-  → `notation/`
+  → [Notation](notation/)
 
 - **Tools (Titus)**  
   Companion system for exploring and verifying QLM derivations  
-  → `tools/`
+  → [Tools](tools/)
 
 - **Archive**  
-  External archival records (OSF)  
-  → `archive/`
+  External archival records  
+  → [Archive](archive/)
 
 ---
 
