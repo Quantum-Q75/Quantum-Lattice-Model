@@ -1,11 +1,13 @@
-/* QLM Synthwave Theme */
+/* QLM Synthwave Theme — Deep Violet */
 
 :root {
-  --bg: #0b0f1a;
-  --fg: #e6e6f0;
-  --accent: #ff4fd8;
-  --accent2: #4fdcff;
-  --muted: #9aa0b4;
+  --bg: #0a0d18;        /* deeper, cooler background */
+  --fg: #e4e7f2;        /* soft near-white text */
+
+  --accent: #7b5cff;    /* deep quantum violet */
+  --accent2: #3fd6ff;   /* electric cyan/teal contrast */
+
+  --muted: #8b92b2;     /* cool muted blue-gray */
 }
 
 /* Base layout */
@@ -65,8 +67,8 @@ small,
 /* Code blocks (future-proofing) */
 code,
 pre {
-  background-color: #111528;
+  background-color: #11162a;
   color: var(--fg);
-  padding: 0.2rem 0.4rem;
+  padding: 0.25rem 0.45rem;
   border-radius: 4px;
 }
