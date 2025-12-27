@@ -1,11 +1,14 @@
 /* QLM Synthwave Theme — Deep Violet */
+
 :root {
-  --bg: #0a0d18;           /* deep space background */
-  --fg: #e4e7f2;           /* soft near-white text */
+  --bg: #0a0d18;            /* deep space background */
+  --fg: #e4e7f2;            /* soft near-white text */
+
   --accent: #7b5cff;        /* deep quantum violet */
-  --accent2: #3fd6ff;       /* electric cyan/teal */
+  --accent2: #2f6cff;       /* deep spectral blue */
+
   --muted: #8b92b2;         /* cool muted blue-gray */
-  --code-bg: #11162a;      /* darker code background */
+  --code-bg: #11162a;       /* darker code background */
 }
 
 /* Base layout */
@@ -19,10 +22,10 @@ body {
   max-width: 900px;
   padding: 0 1.5rem;
 
-  /* Enhanced subtle quantum grid */
+  /* Subtle quantum lattice */
   background-image:
-    linear-gradient(rgba(123, 92, 255, 0.08) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(123, 92, 255, 0.08) 1px, transparent 1px);
+    linear-gradient(rgba(123, 92, 255, 0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(123, 92, 255, 0.06) 1px, transparent 1px);
   background-size: 40px 40px;
   background-attachment: fixed;
 }
@@ -30,27 +33,27 @@ body {
 /* Headings */
 h1, h2, h3 {
   color: var(--accent2);
-  letter-spacing: 0.04em;
-  margin-top: 2.5em;
+  letter-spacing: 0.035em;
+  margin-top: 2.3em;
 }
 
 h1 {
   border-bottom: 2px solid var(--accent);
   padding-bottom: 0.5rem;
-  text-shadow: 0 0 12px rgba(123, 92, 255, 0.4);
+  text-shadow: 0 0 10px rgba(123, 92, 255, 0.35);
 }
 
 /* Links */
 a {
   color: var(--accent);
   text-decoration: none;
-  transition: all 0.2s ease;
+  transition: color 0.2s ease, text-shadow 0.2s ease;
 }
 
 a:hover {
   color: var(--accent2);
   text-decoration: underline;
-  text-shadow: 0 0 8px rgba(123, 92, 255, 0.6);
+  text-shadow: 0 0 6px rgba(47, 108, 255, 0.5);
 }
 
 /* Lists */
@@ -68,7 +71,7 @@ hr {
   border: none;
   border-top: 1px solid var(--muted);
   margin: 3rem 0;
-  opacity: 0.6;
+  opacity: 0.55;
 }
 
 /* Text */
@@ -82,7 +85,7 @@ small,
   font-size: 0.9em;
 }
 
-/* Custom selection */
+/* Selection */
 ::selection {
   background: var(--accent);
   color: var(--bg);
