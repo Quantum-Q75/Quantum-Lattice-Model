@@ -20,4 +20,4 @@ The QLM papers remain the sole source of physical authority.
 ### Access
 
 Titus is available at:  
-https://chatgpt.com/g/g-68c366a7e4e881918f90c2975096d842-titus
+https://chatgpt.com/g/g-695734c60f508191abba187f76ce2594-titus
