@@ -17,6 +17,8 @@ The GitHub repository is the canonical reference for current QLM documents.
   Original OSF registration: https://osf.io/bn42e/  
   Notation-aligned archival version uploaded: December 26, 2025  
   OSF project: https://osf.io/5zucm/
+  Impedance-Normalized & Notation-Aligned Edition Uploaded: February 10, 2026
+  (https://doi.org/10.5281/zenodo.18604028)
 
 ### QLM Extensions — Archival Records
 
