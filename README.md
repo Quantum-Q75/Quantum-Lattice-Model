@@ -1,9 +1,14 @@
 # Quantum Lattice Model (QLM)
 
-The **Quantum Lattice Model (QLM)** is a deterministic phase–action framework in which fundamental physics emerges from discrete Planck-scale lattice dynamics.  
-In QLM, spacetime is modeled as a four-dimensional lattice where each lattice tick advances physical phase by exactly one radian and transports one quantum of reduced action, ℏ.
+The **Quantum Lattice Model (QLM)** is a deterministic theoretical physics framework developed by **Quinton R. D. Tharp**.  
 
-From this single primitive rule, the full system of Planck units, gravitational coupling, and related physical structure follows in closed algebraic form.
+QLM proposes that fundamental physics emerges from discrete Planck-scale lattice dynamics governed by reduced-action (ħ-per-radian) phase transport. In this model, spacetime is represented as a four-dimensional lattice where each lattice tick advances physical phase by exactly one radian and transports one quantum of reduced action, ℏ.
+
+From this primitive rule, QLM derives Planck units, gravitational coupling, electromagnetic structure, and related physical constants in closed algebraic form.
+
+This repository constitutes the **authoritative and canonical formulation** of the Quantum Lattice Model. All prior drafts, including the October 2025 “Titus Planck Units” paper, are superseded.
+
+This GitHub repository serves as the official public reference site and maintained canonical source for the Quantum Lattice Model (QLM).
 
 ---
 
@@ -138,7 +143,23 @@ QLM is an actively developed theoretical framework.
 - Extensions are derived strictly from established primitives.
 - Speculative or exploratory ideas are kept separate from canonical results.
 
-This repository serves as the **authoritative reference** for the Quantum Lattice Model.
+This repository is actively maintained and serves as the central development and documentation hub for the Quantum Lattice Model (QLM).
+
+---
+
+## Frequently Asked Questions
+
+### What is the Quantum Lattice Model (QLM)?
+
+The Quantum Lattice Model is a deterministic Planck-scale framework that models spacetime as a discrete lattice governed by reduced-action phase transport.
+
+### Is QLM related to quantum mechanics and general relativity?
+
+Yes. QLM aims to provide a unified deterministic foundation from which quantum mechanics, gravitational coupling, and electromagnetic structure emerge.
+
+### Where is the canonical version of QLM published?
+
+The canonical formulation of the Quantum Lattice Model is maintained in this repository and linked foundational papers (December 2025).
 
 ---
 
