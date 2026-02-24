@@ -25,9 +25,9 @@ The GitHub repository is the canonical reference for current QLM documents.
 - **Planck Energy Density Cap and Minimal Saturated-Core Completion**  
   Registration date: December 26, 2025  
   OSF project: https://osf.io/qgc4y/
- **Action Throughput and Lorentz Kinematics from Proper Ticks**  
+ **Invariant Transport and Lorentz Kinematics from Proper Ticks**  
   Registration date: February 23, 2026  
-  https://doi.org/10.5281/zenodo.18751975
+  https://doi.org/10.5281/zenodo.18752436
 
 ---
 
