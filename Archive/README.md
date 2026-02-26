@@ -30,6 +30,10 @@ The GitHub repository is the canonical reference for current QLM documents.
   Registration date: February 23, 2026  
   https://doi.org/10.5281/zenodo.18752436
 
+  - **Routing Admittance and Saturated-Core Completion**  
+  Registration date: February 25, 2026  
+  https://doi.org/10.5281/zenodo.18779365
+
 ---
 
 ## Role of Archives
