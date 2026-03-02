@@ -18,21 +18,22 @@ The GitHub repository is the canonical reference for current QLM documents.
   Notation-aligned archival version uploaded: December 26, 2025  
   OSF project: https://osf.io/5zucm/
   Impedance-Normalized & Notation-Aligned Edition Uploaded: February 10, 2026
-  (https://doi.org/10.5281/zenodo.18616733)
+  (https://doi.org/10.5281/zenodo.18829097) Updated: March 1, 2026
 
 ### QLM Extensions — Archival Records
 
 - **Planck Energy Density Cap and Minimal Saturated-Core Completion**  
   Registration date: December 26, 2025  
   OSF project: https://osf.io/qgc4y/
+  Zenodo: (https://doi.org/10.5281/zenodo.18829579) Updated: March 1, 2026
  
 - **Invariant Transport and Lorentz Kinematics from Proper Ticks**  
-  Registration date: February 23, 2026  
-  https://doi.org/10.5281/zenodo.18752436
+  Registration date: March 1, 2026  
+  https://doi.org/10.5281/zenodo.18829831
 
   - **Routing Admittance and Saturated-Core Completion**  
-  Registration date: February 25, 2026  
-  https://doi.org/10.5281/zenodo.18779365
+  Registration date: March 1, 2026  
+  https://doi.org/10.5281/zenodo.18830119
 
 ---
 
